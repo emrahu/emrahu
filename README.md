@@ -37,10 +37,6 @@ A cloud-native platform for public and fleet EV charging.
 
 🔗 [smartcharge.app](https://smartcharge.app)
 
-### EV Travel Diary & Planner
-A cross-platform (iOS/Android) travel diary and trip planner for EV drivers.
-- Integrated charging availability, route optimization, and vehicle telemetry
-
 ### What I Eat — AI Nutrition Tracker
 An AI-powered nutrition app built with SwiftUI (MVVM-C).
 - Real-time food scanning via camera and voice input
